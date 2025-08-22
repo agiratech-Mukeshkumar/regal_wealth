@@ -1,0 +1,28 @@
+.footer-container {
+    text-align: center;
+    font-size: 15px;
+    color: rgb(90, 88, 88);
+    padding-top: 10px; /* Instead of margin-top */
+    z-index: 1;
+    margin-top: auto;
+}
+.footer-container a {
+    
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
+/* This style will be applied ONLY when the theme is 'light' (for LoginPage) */
+.footer-container.light-theme {
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    padding-top: 10px; /* Instead of margin-top */
+    z-index: 1;
+}
+
+.footer-container.light-theme a{
+    color:white
+} 
