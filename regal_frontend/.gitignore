@@ -22,12 +22,3 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-admin
-appointments.py
-clients.py
-client
-layout
-routes
-
-NotificationsPage.css
-NotificationsPage.tsx

@@ -1,8 +1,2 @@
 .env
 venv
-/utils/email_sender.py
-uploads
-shared
-client
-advisor
-admin
