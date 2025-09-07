@@ -23,7 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 admin
-advisor
+appointments.py
+clients.py
 client
 layout
 routes
